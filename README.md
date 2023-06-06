@@ -1,4 +1,4 @@
-Project: django-shop 
+Project: django-shop. 
 Developer: Yuriy IV.
 
 Документация по запуску проекта:
