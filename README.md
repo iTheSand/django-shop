@@ -7,7 +7,7 @@ Developer: Yuriy IV.
 
 ```
 python -m venv venv
-source venv\bin\activate 
+source venv/bin/activate 
 ```
 
 
@@ -20,7 +20,7 @@ git clone https://github.com/iTheSand/django-shop.git
 Устанавливаем необходимые зависимости:
 
 ```
-pip install -r /django-shop/requirements.txt
+pip install -r django-shop/requirements.txt
 ```
 
 
